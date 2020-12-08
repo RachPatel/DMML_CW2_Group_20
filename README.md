@@ -22,7 +22,7 @@ The training data was modified in 2 ways:
 
 1: Removing 4000 instances and addig them to the test data: This meant reducing the size of the training data
 
-3. Removing a futher 9000 and adding the to the test data: This meant an even smaller training set
+2: Removing a futher 9000 and adding the to the test data: This meant an even smaller training set
 
 
 
